@@ -107,6 +107,7 @@ export const Container = styled.main`
                 margin-left: 1.8rem;
 
                 li {
+                    font-size: 1.6rem;
                     line-height: 2.2rem;
 
                     &::marker {
@@ -143,6 +144,7 @@ export const Container = styled.main`
                 padding-bottom: 4.0rem;
 
                 li {
+                    font-size: 1.6rem;
                     line-height: 2.2rem;
 
                     &::marker {
@@ -177,6 +179,7 @@ export const Container = styled.main`
                 margin-left: 1.8rem;
 
                 li {
+                    font-size: 1.6rem;
                     line-height: 2.2rem;
 
                     &::marker {
