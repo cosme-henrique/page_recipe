@@ -183,6 +183,7 @@ Error generating stack: `+o.message+`
                 margin-left: 1.8rem;
 
                 li {
+                    font-size: 1.6rem;
                     line-height: 2.2rem;
 
                     &::marker {
@@ -219,6 +220,7 @@ Error generating stack: `+o.message+`
                 padding-bottom: 4.0rem;
 
                 li {
+                    font-size: 1.6rem;
                     line-height: 2.2rem;
 
                     &::marker {
@@ -253,6 +255,7 @@ Error generating stack: `+o.message+`
                 margin-left: 1.8rem;
 
                 li {
+                    font-size: 1.6rem;
                     line-height: 2.2rem;
 
                     &::marker {
